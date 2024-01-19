@@ -1,0 +1,22 @@
+{
+  "name": "Deriw Testnet",
+  "chain": "Deriw",
+  "rpc": ["https://rpc.test.deriw.com/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "tDer",
+    "symbol": "tDer",
+    "decimals": 18
+  },
+  "infoURL": "https://test.deriw.com",
+  "shortName": "tDer",
+  "chainId": 868455272153094,
+  "networkId": 868455272153094,
+  "explorers": [
+    {
+      "name": "Deriw Testnet Explorer",
+      "url": "https://explorer.test.deriw.com",
+      "standard": "EIP3091"
+    }
+  ]
+}
